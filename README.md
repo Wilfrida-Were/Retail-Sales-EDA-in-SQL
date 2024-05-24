@@ -1,1 +1,1 @@
-# Retail-Sales-EDA-in-SQL
+# Retail Sales Exploratory Data Analysis in SQL
